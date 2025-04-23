@@ -1,0 +1,102 @@
+[
+  {
+    "_id": "68063405c4e74dca84765dae",
+    "cardnumber": "01",
+    "cardtext": "How are you doing?"
+  },
+  {
+    "_id": "6807719dee1a466d0399ef18",
+    "cardnumber": "02",
+    "cardtext": "What is your favourite thing about this week?"
+  },
+  {
+    "_id": "68077721ee1a466d0399ef19",
+    "cardnumber": "03",
+    "cardtext": "What is your fondest memory?"
+  },
+  {
+    "_id": "68077743ee1a466d0399ef1a",
+    "cardnumber": "04",
+    "cardtext": "What do you feel most nostalgic about?"
+  },
+  {
+    "_id": "68077763ee1a466d0399ef1b",
+    "cardnumber": "05",
+    "cardtext": "In a general medieval fantasy setting, what would you be your job?"
+  },
+  {
+    "_id": "6808c60cf9bda83b27a6e69e",
+    "cardnumber": "06",
+    "cardtext": "What is the greenest flag in a person for you?"
+  },
+  {
+    "_id": "6808c6cef9bda83b27a6e69f",
+    "cardnumber": "07",
+    "cardtext": "What is your forté cooking recipe?"
+  },
+  {
+    "_id": "6808c752f9bda83b27a6e6a0",
+    "cardnumber": "08",
+    "cardtext": "What fictional character do you most relate to?"
+  },
+  {
+    "_id": "6808c778f9bda83b27a6e6a1",
+    "cardnumber": "09",
+    "cardtext": "What dream do you remember most vividly?"
+  },
+  {
+    "_id": "6808c79cf9bda83b27a6e6a2",
+    "cardnumber": "10",
+    "cardtext": "If you could spend a day with one person, who would that be?"
+  },
+  {
+    "_id": "6808c7b4f9bda83b27a6e6a3",
+    "cardnumber": "11",
+    "cardtext": "What is your earliest memory of the person you have known the longest who is present right now?"
+  },
+  {
+    "_id": "6808c7dff9bda83b27a6e6a4",
+    "cardnumber": "12",
+    "cardtext": "Describe your ideal weekend."
+  },
+  {
+    "_id": "6808c7fdf9bda83b27a6e6a5",
+    "cardnumber": "13",
+    "cardtext": "What single book has affected you the most?"
+  },
+  {
+    "_id": "6808c812f9bda83b27a6e6a6",
+    "cardnumber": "14",
+    "cardtext": "What impresses you most in a person?"
+  },
+  {
+    "_id": "6808c831f9bda83b27a6e6a7",
+    "cardnumber": "15",
+    "cardtext": "If magic in general was real, how would you implement it in your daily life?"
+  },
+  {
+    "_id": "6808c85af9bda83b27a6e6a8",
+    "cardnumber": "16",
+    "cardtext": "What moment in your life did you feel the most alive?"
+  },
+  {
+    "_id": "6808c86ef9bda83b27a6e6a9",
+    "cardnumber": "17",
+    "cardtext": "What is your next 'big step' in life?"
+  },
+  {
+    "_id": "6808c884f9bda83b27a6e6aa",
+    "cardnumber": "18",
+    "cardtext": "What do your best friends have in common?"
+  },
+  {
+    "_id": "6808c8adf9bda83b27a6e6ab",
+    "cardnumber": "19",
+    "cardtext": "What would you like to live without?"
+  },
+  {
+    "_id": "6808c8d3f9bda83b27a6e6ac",
+    "cardnumber": "20",
+    "cardtext": "What movie has impacted you the most?"
+  }
+]
