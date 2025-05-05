@@ -125,7 +125,7 @@ const Card = ({ id, description }: { id?: string; description?: string }) => {
   useEffect(() => {
     const card = cardsData[currentIndex];
     if (card) {
-      const text = card.cardtext ?? '';
+      const text = card.question ?? '';
       let hash = 0;
       for (let i = 0; i < text.length; i++) {
         hash = text.charCodeAt(i) + ((hash << 5) - hash);
@@ -169,10 +169,10 @@ const Card = ({ id, description }: { id?: string; description?: string }) => {
           initial={false}
         >
           <p className='w-full text-left pl-4 pt-2 font-bold'>
-            Prompt #{cardsData[currentIndex]?.cardnumber ?? 'No ID available'}
+            Prompt #{cardsData[currentIndex]?.cardId ?? 'No ID available'}
           </p>
           <p className='h-full content-center mx-12 text-lg'>
-            {cardsData[currentIndex]?.cardtext ?? 'No description available'}
+            {cardsData[currentIndex]?.question ?? 'No description available'}
           </p>
         </motion.div>
       )}
