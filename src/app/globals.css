@@ -61,5 +61,5 @@ footer {
 }
 
 .modal-text {
-  @apply text-2xl text-white font-bold my-24;
+  @apply text-2xl text-white font-bold my-8;
 }
